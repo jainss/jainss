@@ -1,6 +1,6 @@
 ### Hi I'm Sahil Jain! 👋
 
-- 🔭 I’m currently working on Node Js (Web)
+- 🔭 I’m currently working on Dart (App)
 - 🌱 I’m currently learning Js
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
