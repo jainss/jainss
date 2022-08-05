@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sahil Jain</h1>
-<h3 align="center">Third Year student pursuing BTECH in Computer science Information Technology with excellent academic background and Adept C/C++ . Very Enthusiastic to learning new technologies and enhancing my professional day to day.</h3>
+<h3 align="center">Final Year student pursuing BTECH in Computer science Information Technology with excellent academic background and Adept C/C++ . Very Enthusiastic to learning new technologies and enhancing my professional day to day.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jainss&label=Profile%20views&color=0e75b6&style=flat" alt="jainss" /> </p>
 
